@@ -1,6 +1,8 @@
 // App.js
 import React from 'react';
 import './App.css';
+import AdminDashboard from './components/admin/AdminDashboard';
+
 
 function App() {
   return (
@@ -77,7 +79,17 @@ function App() {
       <footer className="footer">
         <p>&copy; 2024 Travel Whisper. All rights reserved.</p>
       </footer>
+
+      <AdminDashboard />
+
+
     </div>
+
+
+
+
+
+
   );
 }
 
