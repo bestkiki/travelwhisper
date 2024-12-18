@@ -177,7 +177,18 @@ h2 {
 
 @media (max-width: 768px) {
   .nav-links {
-    display: none;
+    /* display: none; 이 줄을 삭제하고 아래 스타일 추가 */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    font-size: 0.9rem;
+  }
+
+  .navbar {
+    flex-direction: column;
+    padding: 1rem;
+    gap: 1rem;
   }
   
   .hero h1 {
