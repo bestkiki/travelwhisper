@@ -32,7 +32,7 @@
 .hero {
   height: 500px;
   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
-              url('/api/placeholder/1920/500');
+              url('https://images.unsplash.com/photo-1469474968028-56623f02e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bmF0dXJlfHx8fHx8MTYwNjg5MjM1MA&ixlib=rb-1.2.1&q=80&w=1920');
   background-size: cover;
   background-position: center;
   display: flex;

@@ -30,22 +30,22 @@ function App() {
         <h2>인기 여행지</h2>
         <div className="category-grid">
           <div className="category-card">
-            <img src="/api/placeholder/300/200" alt="제주도" />
+            <img src="https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=300" alt="제주도" />
             <h3>제주도</h3>
             <p>섬 전체가 하나의 관광지, 제주도</p>
           </div>
           <div className="category-card">
-            <img src="/api/placeholder/300/200" alt="부산" />
+            <img src="https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=300" alt="부산" />
             <h3>부산</h3>
             <p>해운대와 광안리의 도시</p>
           </div>
           <div className="category-card">
-            <img src="/api/placeholder/300/200" alt="도쿄" />
+            <img src="https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=300" alt="도쿄" />
             <h3>도쿄</h3>
             <p>일본의 수도, 도쿄</p>
           </div>
           <div className="category-card">
-            <img src="/api/placeholder/300/200" alt="방콕" />
+            <img src="https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=300" alt="방콕" />
             <h3>방콕</h3>
             <p>태국의 활기찬 수도</p>
           </div>
@@ -56,7 +56,7 @@ function App() {
         <h2>특별 프로모션</h2>
         <div className="promotion-grid">
           <div className="promotion-card">
-            <img src="/api/placeholder/400/250" alt="프로모션1" />
+            <img src="https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=400" alt="프로모션1" />
             <div className="promotion-content">
               <h3>제주 3박 4일 패키지</h3>
               <p>299,000원부터</p>
@@ -64,7 +64,7 @@ function App() {
             </div>
           </div>
           <div className="promotion-card">
-            <img src="/api/placeholder/400/250" alt="프로모션2" />
+            <img src="https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=400" alt="프로모션2" />
             <div className="promotion-content">
               <h3>방콕 5박 6일 패키지</h3>
               <p>599,000원부터</p>
